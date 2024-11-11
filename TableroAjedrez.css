@@ -18,7 +18,7 @@ body {
   box-shadow: 0 10px 10px -6px rgba(0, 0, 0, .6);
   /*Pone un borde redondeado/curvo a la imagen de la url, al tablero*/
   border-radius: 3px;
-  /*Pone un límite para que los bordes entre celdas no colapsen y así el tablero pueda verse independientemente del dispositivo que se estén usando, steelblue = azul acero*/
+  /*Pone un límite para que los bordes entre celdas no colapsen y así el tablero pueda verse independientemente del dispositivo que se estén usando*/
   border-collapse: collapse;
   /*Pone una altura fija a la imagen, al tablero*/
   height: 400px;
